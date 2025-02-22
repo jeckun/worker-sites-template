@@ -1,5 +1,6 @@
 account_id = "0115978a73bacd94119c3ba120833c8e"
 name = "tight-hall-b712"
 main = "workers-site/index.js"
+type = "workers_dev"
 workers_dev = true
 site = { bucket = "./public" }
