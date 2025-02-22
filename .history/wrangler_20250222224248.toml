@@ -1,5 +1,5 @@
 account_id = "NXgyM-pHFyGeqg2e7gTHbjNzrCZ-CRVcEBpVWu0T"
-name = "tight-hall-b712"
-type = "workers_dev"
+name = "jeckun"
+type = "webpack"
 workers_dev = true
 site = { bucket = "./public" }

@@ -1,5 +1,5 @@
 account_id = "NXgyM-pHFyGeqg2e7gTHbjNzrCZ-CRVcEBpVWu0T"
-name = "tight-hall-b712"
+name = "jeckun"
 type = "workers_dev"
 workers_dev = true
 site = { bucket = "./public" }
